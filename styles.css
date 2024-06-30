@@ -1,18 +1,20 @@
-.roboto-mono-<uniquifier> {
+.roboto-mono-text {
   font-family: "Roboto Mono", monospace;
-  font-optical-sizing: auto;
+  font-optical-sizing: auto;        
   font-weight: 475;
   font-style: normal;
 }
-}
 
- <style type="text/css">
         html, body {
             margin: 0px;
             padding: 0px;
             border: 0px;
             left: 0px;
             top: 0px;
+            color: white;
+            background-image: url('https://art.ngfiles.com/images/2505000/2505873_angiespice_spamton-background-thingy.png?f1651895494');
+            background-attachment: fixed;
+            background-size: cover;
         }
 
         #nav {
@@ -52,13 +54,6 @@
   .responsive {
   width: 100%;
   height: auto;
-}
-
-body {
-  color: white;
-  background-image: url('https://art.ngfiles.com/images/2505000/2505873_angiespice_spamton-background-thingy.png?f1651895494');
-  background-attachment: fixed;
-  background-size: cover;
 }
 
 p {
@@ -110,5 +105,3 @@ p.big {
           color: black
           }
           a {text-decoration:none;}
-
-    </style>
