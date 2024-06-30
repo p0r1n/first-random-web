@@ -1,7 +1,9 @@
 # first-random-web
 A beginner's adventure to her first webpage
 
-Just attempting to play around with the codes I learned to make a fun and interact-able website that links to easter eggs or other website of my favorite character :) 
+Just attempting to play around with the codes I learned to make a fun and interactive website that links to easter eggs or other website of my favorite character :) 
+
+Planning to add more pages, interactive elements and a fan-made web game in the future
 
 If you love Spamton too, do join in!
 
